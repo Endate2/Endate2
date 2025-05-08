@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![О]([ссылка_на_gif](https://github.com/user-attachments/assets/959f5467-9586-4a36-b771-567ad03659c4))
+
 
 
 

@@ -48,7 +48,7 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorChimirev&theme=dracula)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorChimirev&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endate2&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
 
 

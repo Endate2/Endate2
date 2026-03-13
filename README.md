@@ -51,3 +51,7 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endate2&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
+## 📜 Сертификат
+Ниже представлен сертификат о прохождении курса «QA-engineer» от AvitoTech:
+
+![Сертификат AvitoTech](./Снимок%20экрана%202026-03-13%20в%2016.17.00.png)

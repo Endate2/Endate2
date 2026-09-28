@@ -1,5 +1,5 @@
 
-### Second-year student at ITMO in the Faculty of Software Engineering and Computer Systems, specializing in neurotechnology and programming, like learning something new and applying my knowledge in practice.
+### Student at ITMO in the Faculty of Software Engineering and Computer Systems, specializing in neurotechnology and programming, like learning something new and applying my knowledge in practice.
 
 ## 📫 Contact Me
 - CV: [My CV](https://drive.google.com/file/d/14lznGwdFBo5ayIJN8Jq7kd1iIU2QMr2j/view?usp=sharing)

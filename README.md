@@ -50,7 +50,8 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Endate2&theme=dracula)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endate2&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Endate2&theme=dracula)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Endate2&theme=dracula)
 
 ## 📜 Сертификат
 Ниже представлен сертификат о прохождении курса «QA-engineer» от AvitoTech:
